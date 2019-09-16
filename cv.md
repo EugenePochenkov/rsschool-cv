@@ -37,3 +37,16 @@ https://github.com/EugenePochenkov/sedona-responsive/
 https://github.com/EugenePochenkov/Lavric/
 
 https://github.com/EugenePochenkov/Lavric-pro/
+            
+
+7.Education:
+
+    Belarusian National Technical University, 2016
+
+    Courses: 
+      HTML Academy https://htmlacademy.ru/intensive/adaptive
+      Dmitry Lavrik https://js.dmitrylavrik.ru/?utm=site-courses 
+                    https://js.dmitrylavrik.ru/frontend/?utm=site-courses
+      JSEXPERT https://www.jsexpert.net/course/clear-javascript-advanced/
+
+8.English level: B1
