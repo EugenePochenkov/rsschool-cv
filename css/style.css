@@ -1,0 +1,65 @@
+html,
+body {
+  width: 100%;
+  max-width: 1024px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0;
+
+  background-color: #55595f;
+}
+
+.cv {
+  width: 100%;
+  margin: 0;
+  padding: 50px;
+
+  background-color: #ffffff;
+}
+
+.cv__item {
+  margin: 0;
+  padding: 0;
+}
+
+.cv__answer {
+  margin: 30px;
+}
+
+.cv__answer--summary {
+  line-height: 1.4;
+}
+
+.cv__links {
+  margin-bottom: 10px;
+
+  color: rgb(39, 52, 196);
+}
+
+.cv__links:hover,
+.cv__links:focus {
+  color: #b18322;
+
+  outline: none;
+}
+
+.cv__text {
+  margin-bottom: 20px;
+}
+
+.list {
+  padding: 0;
+
+  list-style: none;
+}
+
+.list__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.list--inner {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+}
+
